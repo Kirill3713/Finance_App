@@ -54,7 +54,6 @@ def plot_cyn_usd() -> None:
     plt.title("График юань к доллару")
     plt.show()
 
-
 def plot_inr_usd() -> None:
     """
     Индийской рупии к доллару
@@ -79,11 +78,11 @@ def plot_zar_usd() -> None:
     plt.title("График южноафриканского ранда к доллару")
     plt.show()
 
-# Точка входа в программу
-if __name__ == "__main__":
-    # plot_eur_huf()
-    # plot_euro_usd()
-    plot_inr_usd()
-    # plot_rub_usd()
-    # plot_zar_usd()
-    # plot_cyn_usd()
+# # Точка входа в программу
+# if __name__ == "__main__":
+#     # plot_eur_huf()
+#     # plot_euro_usd()
+#     # plot_inr_usd()
+#     # plot_rub_usd()
+#     # plot_zar_usd()
+#     # plot_cyn_usd()

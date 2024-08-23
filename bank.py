@@ -16,7 +16,7 @@ light_magenta = colorama.Fore.LIGHTMAGENTA_EX
 light_green = colorama.Fore.LIGHTGREEN_EX
 light_red = colorama.Fore.LIGHTRED_EX
 reset = colorama.Fore.RESET
-colors = [green, red, light_blue, light_cyan, light_green, light_magenta, light_red, light_white, light_yellow, ]
+colors = [green, red, light_blue, light_cyan, light_green, light_magenta, light_red, light_white, light_yellow]
 # Создаем функции
 def suggestion() -> None:
     """
